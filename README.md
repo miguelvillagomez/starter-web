@@ -16,4 +16,4 @@ This is a simple we project, deployment can be on any web server or even local f
 
 ## How To Contribute
 
-Asiendo cambios para entender el cambio de ramas
+camcion en la rama maestra
