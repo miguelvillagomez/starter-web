@@ -4,5 +4,5 @@
 
 ## Purpose
 
-##How To Contribute
+## How To Contribute
 
